@@ -32,3 +32,14 @@ li a:hover:not(.active) {
 table, th, td {
   border: 5px solid rgba(255, 0, 0, 0.486);
 }
+img {
+  height: 600px; width: 800px; overflow: hidden;
+}
+
+
+.carousel-inner > .item > img {
+margin: 0 auto;
+}
+.carousel-inner{
+  background-color: teal;
+}
