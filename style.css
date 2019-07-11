@@ -29,3 +29,6 @@ li a:hover:not(.active) {
   background-color: #555;
   color: white;
 }
+table, th, td {
+  border: 5px solid rgba(255, 0, 0, 0.486);
+}
